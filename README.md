@@ -1,6 +1,6 @@
 # Blog-Bash
-## Par Simon TALBI et Matteo CARAVATI, S1A
-
+## Par Simon TALBI et [Matteo CARAVATI], S1A
+[Matteo CARAVATI]: https://github.com/mcaravati
 ### Le script est un simple utilitaire de gestion de blogue par ligne de commande.
 #### Il permet :
  - de créer et d'éditer des pages en format markdown, en utilisant divers éditeurs
